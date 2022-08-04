@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Tiago   
+-Profissão: QA 
+-Cidade: Rio de Janeiro
+-O que faz nas horas vaga: Jogar e Sair
+-Feedback sobre o curso Qualidade de Software: Curso que aborda varios temas da area e tem me ajudado no meu dia dia tao tal que fui promovido para QA Jr. cerca de 1 mes.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma com boa engenharia de usabilidade e estavel nao tive nenhum problema no primeiro uso da plataforma.
 
 Obrigado!!!
 
